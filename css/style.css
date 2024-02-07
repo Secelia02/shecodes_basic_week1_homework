@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: #1A64D6;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 0;
+  font-weight: 100;
+}
+
+p {
+  color: gray;
+}
+
+span {
+  font-weight: bold;
+}
+
+button {
+  color: white;
+  background: #1A64D6;
+  border-radius: 30px;
+  border: solid;
+  padding: 20px;
+  font-size: 16px;
+  transition: all 200ms ease-in-out;
+}
+
+button:hover {
+  color: #1A64D6;
+  background: white;
+  cursor: pointer;
+  border: 1px solid #1A64D6;}
+
+div {
+  transition: all 200ms ease-in-out;
+}
+
+div:hover {
+  background-color:#FFFBEF;
+  max-width: 300px;
+  display: block;
+  margin: auto;
+}
